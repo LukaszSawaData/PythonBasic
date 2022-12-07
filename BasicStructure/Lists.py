@@ -7,3 +7,16 @@ print(myl[-1])
 
 myl.insert(1,"dasdsa")
 print(myl)
+
+
+#remving last elememt from list" 
+
+myl.pop()
+print(myl)
+
+
+#remove predifined elements : 
+
+myl.remove("1")
+
+
