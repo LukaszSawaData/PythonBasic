@@ -9,11 +9,6 @@ for i in myl:
         print(i)
 
 
-# add item to specific place in lists: 
-
-myl.insert(1,"dasdsa")
-print(myl)
-
 
 #remving last elememt from list" 
 
