@@ -1,0 +1,9 @@
+name: Build, Analyze, build
+
+on: 
+  push: 
+    branches: 
+      - main
+      - master
+  pull_request: 
+    types: [opened, reopened,synchronized]
