@@ -3,7 +3,7 @@ myl = ["1","dasd","rrw"]
 print(myl[-1])
 
 for i in myl: 
-    if i == "q": 
+    if i == "1": 
         print(i)
     else: 
         print(i)
