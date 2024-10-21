@@ -3,7 +3,10 @@ myl = ["1","dasd","rrw"]
 print(myl[-1])
 
 for i in myl: 
-    print(i)
+    if i == "q": 
+        print("1")
+    else: 
+        print(i)
 
 
 # add item to specific place in lists: 
