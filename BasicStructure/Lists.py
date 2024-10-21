@@ -3,16 +3,11 @@ myl = ["1","dasd","rrw"]
 print(myl[-1])
 
 for i in myl: 
-    if i == "q": 
-        print("1")
+    if i == "1": 
+        print(i)
     else: 
         print(i)
 
-
-# add item to specific place in lists: 
-
-myl.insert(1,"dasdsa")
-print(myl)
 
 
 #remving last elememt from list" 
