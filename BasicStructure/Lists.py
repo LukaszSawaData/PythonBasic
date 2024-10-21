@@ -4,7 +4,7 @@ print(myl[-1])
 
 for i in myl: 
     if i == "q": 
-        print("1")
+        print(i)
     else: 
         print(i)
 
