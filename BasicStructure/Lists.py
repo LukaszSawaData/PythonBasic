@@ -2,6 +2,9 @@
 myl = ["1","dasd","rrw"]
 print(myl[-1])
 
+for i in myl: 
+    print(i)
+
 
 # add item to specific place in lists: 
 
@@ -18,5 +21,8 @@ print(myl)
 #remove predifined elements : 
 
 myl.remove("1")
+
+
+p = 
 
 
